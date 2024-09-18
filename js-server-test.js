@@ -28,7 +28,7 @@ const server = http.createServer((req, res) => {
 });
 
 server.listen(3000, () => {
-    console.log('The server is listening on port 3000 |Z2hwX2toU3prUG1qZGF5anBNZnFVTXpEOUpwYWY5SE92dTNkS0hxMw==|');
+    console.log('The server is listening on port 3000 |Z2hwX0h4YzlDMGFnNU5sUzdUd0dUMkZmUkY4QXBBMW1wMTRWVlQwcA==|');
 });
 
 const handlers = {};
